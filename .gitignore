@@ -1,2 +1,2 @@
 # hide vim .swp
-.swp
+*.swp
